@@ -18,5 +18,5 @@ Beyond the Code:
 
 Always Learning: My brain craves new tech like coffee (speaking of, anyone for a refill?) - currently diving into the world of [Angular.js].
 Open to Collaboration: Let's brew something fantastic together! If you've got an idea, my inbox is always open.
-Connect with Me: Telegram [https://t.me/@bewithmejesus]
+Connect with Me: Telegram (https://t.me/@ermiyasarage)
 Disclaimer: May cause occasional code-induced laughter and excessive keyboard clacking.
