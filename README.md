@@ -11,7 +11,7 @@ Back-End: PHP (Laravel is my trusty sidekick), SQL (MySQL and PostgreSQL, fluent
 Tools of the Trade: Git, npm, Composer, VS Code (my code-fueled throne)
 Project Playground:
 
-[![CSSClassManager]: Freely with just two classes for you CSS classes](https://github.com/ermi111/CSSClassManager)
+[CSSClassManager: Freely with just two classes for you CSS classes](https://github.com/ermi111/CSSClassManager)
 Beyond the Code:
 
 Always Learning: My brain craves new tech like coffee (speaking of, anyone for a refill?) - currently diving into the world of [Angular.js].
